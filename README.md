@@ -2,7 +2,7 @@
 To run service use the following command:
 > npm start
 
-##Example
+## Example
 url: http://127.0.0.1:3000/batch
 method: POST
 body: 
